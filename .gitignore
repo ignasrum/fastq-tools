@@ -1,0 +1,4 @@
+hocort/__pycache__/
+build/
+fastq_tools.egg-info/
+fastq_tools/__pycache__/
